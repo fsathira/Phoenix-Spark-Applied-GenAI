@@ -1,0 +1,89 @@
+airport_code,airport_name,state,state_code,nov_passengers,dec_passengers,year
+ATL,Hartsfield-Jackson Atlanta International,Georgia,GA,4850000,5120000,2024
+DFW,Dallas/Fort Worth International,Texas,TX,3420000,3680000,2024
+DEN,Denver International,Colorado,CO,3180000,3450000,2024
+ORD,O'Hare International,Illinois,IL,3650000,3890000,2024
+LAX,Los Angeles International,California,CA,3890000,4210000,2024
+JFK,John F. Kennedy International,New York,NY,2980000,3250000,2024
+LAS,Harry Reid International,Nevada,NV,2450000,2680000,2024
+MCO,Orlando International,Florida,FL,2680000,2950000,2024
+MIA,Miami International,Florida,FL,2150000,2380000,2024
+CLT,Charlotte Douglas International,North Carolina,NC,2340000,2510000,2024
+SEA,Seattle-Tacoma International,Washington,WA,2280000,2460000,2024
+PHX,Phoenix Sky Harbor International,Arizona,AZ,2190000,2380000,2024
+EWR,Newark Liberty International,New Jersey,NJ,1980000,2150000,2024
+SFO,San Francisco International,California,CA,2450000,2680000,2024
+IAH,George Bush Intercontinental,Texas,TX,2180000,2350000,2024
+BOS,Boston Logan International,Massachusetts,MA,1890000,2050000,2024
+FLL,Fort Lauderdale-Hollywood International,Florida,FL,1650000,1820000,2024
+MSP,Minneapolis-Saint Paul International,Minnesota,MN,1780000,1920000,2024
+DTW,Detroit Metropolitan Wayne County,Michigan,MI,1650000,1780000,2024
+PHL,Philadelphia International,Pennsylvania,PA,1520000,1680000,2024
+LGA,LaGuardia,New York,NY,1450000,1580000,2024
+BWI,Baltimore/Washington International,Maryland,MD,1320000,1450000,2024
+SLC,Salt Lake City International,Utah,UT,1280000,1420000,2024
+DCA,Ronald Reagan Washington National,Virginia,VA,1150000,1280000,2024
+IAD,Washington Dulles International,Virginia,VA,1180000,1320000,2024
+SAN,San Diego International,California,CA,1120000,1250000,2024
+TPA,Tampa International,Florida,FL,1080000,1210000,2024
+AUS,Austin-Bergstrom International,Texas,TX,980000,1120000,2024
+PDX,Portland International,Oregon,OR,920000,1050000,2024
+HNL,Daniel K. Inouye International,Hawaii,HI,850000,1180000,2024
+STL,St. Louis Lambert International,Missouri,MO,780000,880000,2024
+BNA,Nashville International,Tennessee,TN,920000,1050000,2024
+OAK,Oakland International,California,CA,680000,780000,2024
+RSW,Southwest Florida International,Florida,FL,720000,920000,2024
+MCI,Kansas City International,Missouri,MO,650000,750000,2024
+RDU,Raleigh-Durham International,North Carolina,NC,680000,780000,2024
+SMF,Sacramento International,California,CA,620000,720000,2024
+SJC,San Jose International,California,CA,580000,680000,2024
+DAL,Dallas Love Field,Texas,TX,520000,620000,2024
+MDW,Chicago Midway International,Illinois,IL,680000,780000,2024
+HOU,William P. Hobby,Texas,TX,650000,750000,2024
+MSY,Louis Armstrong New Orleans International,Louisiana,LA,580000,720000,2024
+CLE,Cleveland Hopkins International,Ohio,OH,480000,550000,2024
+PIT,Pittsburgh International,Pennsylvania,PA,450000,520000,2024
+IND,Indianapolis International,Indiana,IN,420000,480000,2024
+CMH,John Glenn Columbus International,Ohio,OH,410000,470000,2024
+CVG,Cincinnati/Northern Kentucky International,Kentucky,KY,380000,450000,2024
+JAX,Jacksonville International,Florida,FL,350000,420000,2024
+OKC,Will Rogers World,Oklahoma,OK,280000,320000,2024
+ABQ,Albuquerque International Sunport,New Mexico,NM,320000,380000,2024
+ANC,Ted Stevens Anchorage International,Alaska,AK,250000,280000,2024
+BOI,Boise Airport,Idaho,ID,220000,260000,2024
+BDL,Bradley International,Connecticut,CT,310000,360000,2024
+PVD,T.F. Green International,Rhode Island,RI,180000,220000,2024
+BUF,Buffalo Niagara International,New York,NY,240000,280000,2024
+OMA,Eppley Airfield,Nebraska,NE,220000,260000,2024
+RNO,Reno-Tahoe International,Nevada,NV,280000,380000,2024
+MKE,General Mitchell International,Wisconsin,WI,320000,370000,2024
+TUS,Tucson International,Arizona,AZ,180000,220000,2024
+BHM,Birmingham-Shuttlesworth International,Alabama,AL,180000,210000,2024
+DSM,Des Moines International,Iowa,IA,150000,180000,2024
+LIT,Bill and Hillary Clinton National,Arkansas,AR,140000,170000,2024
+MSN,Dane County Regional,Wisconsin,WI,120000,150000,2024
+CHS,Charleston International,South Carolina,SC,220000,280000,2024
+SAV,Savannah/Hilton Head International,Georgia,GA,180000,240000,2024
+PBI,Palm Beach International,Florida,FL,280000,380000,2024
+SDF,Louisville International,Kentucky,KY,180000,210000,2024
+GRR,Gerald R. Ford International,Michigan,MI,160000,190000,2024
+RIC,Richmond International,Virginia,VA,180000,220000,2024
+ORF,Norfolk International,Virginia,VA,150000,180000,2024
+SYR,Syracuse Hancock International,New York,NY,120000,150000,2024
+PWM,Portland International Jetport,Maine,ME,110000,140000,2024
+BTV,Burlington International,Vermont,VT,80000,100000,2024
+MHT,Manchester-Boston Regional,New Hampshire,NH,95000,115000,2024
+JAN,Jackson-Medgar Wiley Evers International,Mississippi,MS,85000,105000,2024
+FAR,Hector International,North Dakota,ND,65000,80000,2024
+FSD,Sioux Falls Regional,South Dakota,SD,70000,85000,2024
+BIL,Billings Logan International,Montana,MT,75000,90000,2024
+GEG,Spokane International,Washington,WA,150000,180000,2024
+TLH,Tallahassee International,Florida,FL,95000,115000,2024
+GSP,Greenville-Spartanburg International,South Carolina,SC,130000,160000,2024
+CAE,Columbia Metropolitan,South Carolina,SC,65000,80000,2024
+LNK,Lincoln Airport,Nebraska,NE,45000,55000,2024
+CID,The Eastern Iowa,Iowa,IA,55000,70000,2024
+SHV,Shreveport Regional,Louisiana,LA,45000,55000,2024
+BTR,Baton Rouge Metropolitan,Louisiana,LA,55000,70000,2024
+CRW,Yeager,West Virginia,WV,45000,55000,2024
+

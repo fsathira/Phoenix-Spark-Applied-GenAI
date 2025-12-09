@@ -1,0 +1,17 @@
+# Ignore large NOAA raw data file
+data/climdiv-tmpcst.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
